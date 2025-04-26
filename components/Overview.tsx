@@ -26,7 +26,7 @@ function RingOverview({ total, ...statuses }: Omit<Partial<OverviewProps>, 'vari
         value: number;
         label: string;
         color: MantineColor;
-        Icon: (props: TablerIconsProps) => JSX.Element;
+        Icon: (props: TablerIconsProps) => React.JSX.Element;
     }) => (
         <Group wrap="nowrap">
             <ThemeIcon radius="xl" color={color}>
