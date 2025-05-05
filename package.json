@@ -47,7 +47,7 @@
     "typescript": "5.8.3",
     "typescript-language-server": "4.3.4",
     "vscode-langservers-extracted": "4.10.0",
-    "@types/bun": "^1.2.11"
+    "@types/bun": "^1.2.12"
   },
   "trustedDependencies": [
     "core-js",
