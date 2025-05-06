@@ -19,7 +19,7 @@
     "@mantine/hooks": "7.17.5",
     "@mantine/modals": "7.17.5",
     "@mantine/next": "6.0.22",
-    "@mantine/notifications": "7.17.5",
+    "@mantine/notifications": "8.0.0",
     "@mantinex/dev-icons": "2.0.0",
     "@mantinex/mantine-header": "2.0.0",
     "@next/bundle-analyzer": "15.3.1",
